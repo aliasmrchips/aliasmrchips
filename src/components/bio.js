@@ -38,10 +38,10 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> on the side of a mountain in New Mexico.
+              Written by <strong>{author}</strong> next to the Rio Grande in Northern New Mexico.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+                You can follow me on Twitter
               </a>
             </p>
           </div>
