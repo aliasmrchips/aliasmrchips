@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "aliasmrchips",
   "private": true,
   "description": "A starter for a blog powered by Gatsby and Markdown",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Mark Mathis <aliasmrchips@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/aliasmrchips/aliasmrchips/issues"
   },
   "dependencies": {
     "gatsby": "^2.3.31",
@@ -38,15 +38,14 @@
   "devDependencies": {
     "prettier": "^1.17.0"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
-    "gatsby"
+    "aliasmrchips"
   ],
   "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/aliasmrchips/aliasmrchips.git"
   },
   "scripts": {
     "build": "gatsby build",
