@@ -25,7 +25,7 @@ looks remarkably similar to Lupin’s
 
 ![](/media/the-influence-of-the-castle-of-cagliostro-on-romancing-the-stone-1.jpeg)
 
-<figcaption>Citroen 2CV</figcaption></figure>
+<figcaption>Fiat 500</figcaption></figure>
 
 The characters also have a propensity for car chases and driving cross country. This by itself might be just a coincidence, but then towards the end of the movie, Michael Douglas’s character scales a wall to save the heroine…
 
