@@ -5,6 +5,7 @@
 - Geospatial
 - Cloud
 
+aliasmrchips@gmail.com
 <!--
 **aliasmrchips/aliasmrchips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
