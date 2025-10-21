@@ -1,4 +1,9 @@
-## Hi there 👋
+## Helping organizations to get value from emerging technologies
+
+- Computer Vision (CV)
+- Large Language Models (LLMs)
+- Geospatial
+- Cloud
 
 <!--
 **aliasmrchips/aliasmrchips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
